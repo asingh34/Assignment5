@@ -17,7 +17,7 @@ Website:
 Topics will be as follows: 
 	* Early Life information
 	* Education Information
-	* Job History Information
+	* Job History Information  
 Each category recieves an h2 header and the title name recievs the h1 with a picture. A paragraph or two for each section.
 
 	
