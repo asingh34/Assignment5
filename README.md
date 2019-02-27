@@ -13,18 +13,18 @@ Website:
 ## Breakdown of Information Architecture
 
 ### Ontology: 
-* Describes the similarities between students, things they all have. 
+* Describes the similarities between students, things they all have Each topic recieves an h2 header and the title name recievs the h1 with a picture. A paragraph or two for each section.
+
 Topics will be as follows: 
 	* Early Life information
 	* Education Information
 	* Job History Information  
-Each category recieves an h2 header and the title name recievs the h1 with a picture. A paragraph or two for each section.
-
+ 
 	
 ---  
 
 ### Taxonomy:
-* Multipage website consisting of 4 pages.
+* Multipage website consisting of 4 pages: 
 1.	Index 
 2.	Anant webpage (me content pulled from Team Rochester Assignment 2)
 3.	Akshay Desai webpage (content pulled from Team Hell Assignment 2)
