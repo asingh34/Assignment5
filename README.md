@@ -7,7 +7,7 @@
 ## Breakdown of Information Architecture
 
 ### Ontology: 
-Describes the similarities between students, things they all have. 
+* Describes the similarities between students, things they all have. 
 Topics will be as follows: 
 	Early Life information
 	Education Information
@@ -16,7 +16,7 @@ Topics will be as follows:
 ---  
 
 ### Taxonomy:
-Multipage website consisting of 4 pages.
+* Multipage website consisting of 4 pages.
 1.	Index 
 2.	Anant webpage (me content pulled from Team Rochester Assignment 2)
 3.	Akshay Desai webpage (content pulled from Team Hell Assignment 2)
@@ -25,7 +25,7 @@ Multipage website consisting of 4 pages.
 ---  
 
 ### Choreography:  
-Main page will come first implementing Z-Design. Nav menu will take you through the 3 students where the first two shall be related in terms of attending the University of Rochester vs Elon Musk who attended Queens University in Canada. 
+* Main page will come first implementing Z-Design. Nav menu will take you through the 3 students where the first two shall be related in terms of attending the University of Rochester vs Elon Musk who attended Queens University in Canada. 
 
 --- 
 	 
