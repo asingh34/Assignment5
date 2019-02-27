@@ -20,8 +20,9 @@ Multipage website consisting of 4 pages.
 3.	Akshay Desai webpage (content pulled from Team Hell Assignment 2)
 4.	Austin AKA Elon Musk webpage (content pulled from Team Hell Assignment 2)
 
-### Choreography:
+### Choreography:  
 Main page will come first implementing Z-Design. Nav menu will take you through the 3 students where the first two shall be related in terms of attending the University of Rochester vs Elon Musk who attended Queens University in Canada. 
+
 --- 
 	 
 
