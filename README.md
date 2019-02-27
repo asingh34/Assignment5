@@ -16,7 +16,7 @@ Website:
 * Describes the similarities between students, things they all have Each topic recieves an h2 header and the title name recievs the h1 with a picture. A paragraph or two for each section.
 
 Topics will be as follows:   
-	* Early Life information  
+	** Early Life information  
 	* Education Information  
 	* Job History Information    
  
