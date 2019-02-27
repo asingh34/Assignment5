@@ -1,5 +1,8 @@
 # Team Hell Michigan: Assignment 5 Odd Student Out 
-
+### Team Roles 
+- Information Architect: Anant Singh 
+- Visual Designer Anant Singh 
+- Front-End Coder: Anant Singh
 ## Domain Breakdown 
 
  * Multipage website containing information on 3 students: Anant Singh, Akshay Desai, Austin AKA Elon Musk. One of the students, Elon Musk, is the odd one out of the three in terms of education. Anant and Akshay both attend the University of Rochester while Elon attended Queens University… and is also a celebrity. 
