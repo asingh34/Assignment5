@@ -1,7 +1,7 @@
 # Team Hell Michigan: Assignment 5 Odd Student Out 
 
-Website: 
-
+Website: goes here
+edit edit edit 
 ### Team Roles 
 - Information Architect: Anant Singh 
 - Visual Designer Anant Singh 
@@ -20,8 +20,6 @@ Topics will be as follows:
 * Education   
 * Job History    
   
- 
-	
 ---  
 
 ### Taxonomy:
