@@ -1,6 +1,6 @@
 # Team Hell Michigan: Assignment 5 Odd Student Out 
 
-Website: goes here
+Website: http://csc174.org/assignment05/hell/
 
 ### Team Roles 
 - Information Architect: Anant Singh 
