@@ -1,0 +1,188 @@
+/* Organized by SMACSS booklet rules; Amended Layout and Module specifications based on lecture slides for CSC 174 by Robert Kostin. Important to note with these specifications Layout rules section will be empty, as for no "id"'s were used.
+*/
+
+/************START Base Rules****************/
+header{
+   grid-column:1/ 2;
+}
+
+main{
+   grid-column:1/4;
+   align-self: end;
+   font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+
+aside{
+   grid-column:4/4;
+   margin-left:100px;
+   align-self:end;
+   font-family: Futura,Trebuchet MS,Arial,sans-serif;
+   line-height: 40px;
+   font-size:25px;
+}
+
+ul{
+   list-style-type:none;
+}
+
+footer{
+   grid-column: 1/4;
+   margin-top:30px;
+   margin-bottom:5px;
+   font-family: Futura,Trebuchet MS,Arial,sans-serif;
+
+
+}
+
+nav{
+   grid-column: 4/ 4;
+   font-size:15px;
+   color:black;
+   font-family: Futura,Trebuchet MS,Arial,sans-serif;
+
+}
+
+
+nav a{
+   display: table-cell;
+   padding: 8px;
+   color: black;
+
+
+}
+
+
+nav ul{
+   display: flex;
+   justify-content: flex-end;
+   list-style:none;
+   padding:5px;
+
+
+
+}
+
+nav li{
+   display:table-cell;
+   grid-column: 3/4;
+   border: 1px solid black;
+
+
+}
+
+a{
+   color:black;
+   text-decoration:none;
+}
+/************ END Base Rules****************/
+
+
+/************ START Layout Rules****************/
+/*See description above*/
+/************ END Layout Rules****************/
+
+
+/************ START Module Rules****************/
+.container{
+   margin: 0 auto;
+   width: 90%;
+   max-width:960px;
+   display: grid;
+   grid-template-columns:200px 200px 100px;
+   background-color:#F9F3A6;
+   padding:20px;
+}
+
+.name{
+   font-family: Impact, Charcoal, sans-serif;
+}
+
+.early,.ed,.job{
+   border:solid black 1px;
+   text-align: left;
+   padding:15px;
+   margin:10px;
+   background-color:#9BA7E2;
+}
+
+.block{
+   padding-top:20px;
+   grid-column:4/4;
+}
+
+.sizer{
+   margin: 50px auto;
+   width: 230%;
+   text-align: center;
+   grid-column:3/4;
+}
+
+.squish {
+   width: 100%;
+}
+
+.nextIndex{
+   grid-column:4/4;
+}
+
+.intro{
+   grid-column: 1/4;
+   font-family: Futura,Trebuchet MS,Arial,sans-serif;
+
+}
+
+.logo{
+   grid-column: 1/4;
+}
+/************ END Module Rules****************/
+
+
+
+/************START State Rules****************/
+.is-current {
+      background-color: #9BA7E2;
+      color: white;
+   }
+
+.current{
+   background-color: pink;
+   color: white;
+}
+
+nav a:hover{
+   background-color: salmon;
+   color: white;
+}
+
+@media (max-width: 960px) {
+     section {
+      display: block;
+      width: auto;
+   }
+}
+
+@media (max-width: 480px) {
+   nav li {
+      display: block;
+   }
+}
+/************END State Rules****************/
+
+
+
+/************START Theme Rules****************/
+img {
+   margin-top:10px;
+   padding:1px;
+
+}
+/************END Theme Rules****************/
+
+
+
+
+
+
+
+
+
